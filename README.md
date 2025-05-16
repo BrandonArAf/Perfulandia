@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # User Service
 
 Microservicio para la gestión de usuarios de Perfulandia.
@@ -47,3 +48,7 @@ El servicio levantará en `http://localhost:8080`.
 
 - `DELETE /api/v1/users/{id}`  
   Eliminar.
+=======
+# Perfulandia
+Proyecto perfulandia fullstack
+>>>>>>> 8ac044fc12fc4f7df9c5615a122b4c0db4afbb34
